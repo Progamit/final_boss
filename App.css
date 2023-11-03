@@ -1,0 +1,80 @@
+.text-size-15em {
+    font-size: 1.5em;
+}
+.text-size-15em input {
+    font-size: 1.5em;
+}
+.text-size-15em button {
+    font-size: 1.5em;
+}
+.border-radius-20 {
+    border-radius: 20px;
+}
+.modalCreatePost {
+    right: 10px;
+    top: 250px
+}
+.w-300px {
+    width: 300px;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.x-hover:hover {
+    border-radius: 50px;
+    border: 3px solid #ea0808;
+    transition: 0.2s;
+}
+.x-border {
+    border-radius: 50px;
+    border: 3px solid black
+}
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 40px;
+}
+.profile-image img {
+    width: 100%;
+    margin: 0 30px 0 0 ;
+}
+.user-field {
+    width: 100%;
+    height: 100%;
+
+}
+.message-field {
+    width: 100%;
+    height: 100%;
+}
+.image-in-profile img {
+    max-height: 400px;
+    max-width: 100%;
+}
+.app-container {
+    min-height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1696532637028-f75f44001f10?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3MDd8fHxlbnwwfHx8fHw%3D");
+}
+
+.single-post img {
+    max-height: 400px;
+    max-width: 100%;
+}
+.single-post {
+    max-width: 700px;
+}
+
+
+.chat-window {
+    min-height: 85vh;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.chat-users {
+    width: 150px;
+    border: 1px solid black;
+    right: 15px;
+}
